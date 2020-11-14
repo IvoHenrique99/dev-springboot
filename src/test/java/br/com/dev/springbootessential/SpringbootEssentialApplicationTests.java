@@ -1,10 +1,10 @@
-package br.com.dev;
+package br.com.dev.springbootessential;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootEssentialsApplicationTests {
+class SpringbootEssentialApplicationTests {
 
 	@Test
 	void contextLoads() {
